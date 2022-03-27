@@ -1,4 +1,4 @@
 module.exports = {
   title: 'laman blog',
-  base: '/blog/'
+  base: '/vuepress-blog/'
 }
